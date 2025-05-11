@@ -2,6 +2,12 @@
 
 A React-based web application that displays delicious recipes using [TheMealDB API](https://www.themealdb.com/). Users can explore recipes by category or area, and view detailed information in a modal interface.
 
+## 🌐 Live
+
+[Live link - recipe-finder-mealdb.netlify.app](https://recipe-finder-mealdb.netlify.app/)
+
+
+
 ## 📸 Preview
 
 ![Home Screenshot](./screenshots/screenshot1.png)
@@ -9,10 +15,6 @@ A React-based web application that displays delicious recipes using [TheMealDB A
 ![Category Screenshot](./screenshots/screenshot3.png)
 ![Recipe Screenshot](./screenshots/screenshot4.png)
 
-
-## 🌐 Live
-
-[🔗 Live](https://recipe-finder-mealdb.netlify.app/)
 
 
 ## 🔍 Features
