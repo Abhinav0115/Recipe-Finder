@@ -1,0 +1,17 @@
+ol {
+    counter-reset: item;
+}
+
+ol li {
+    list-style-type: none;
+    position: relative;
+    margin-left: 2rem;
+}
+
+ol li::before {
+    content: counter(item) ". "; /* Adds the number followed by a dot */
+    counter-increment: item;
+    font-weight: bold;
+    position: absolute;
+    left: -2rem;
+}
