@@ -12,7 +12,7 @@ A React-based web application that displays delicious recipes using [TheMealDB A
 
 ## 🌐 Live
 
-[🔗 Live](https://your-demo-link.com)
+[🔗 Live](https://recipe-finder-mealdb.netlify.app/)
 
 
 ## 🔍 Features
